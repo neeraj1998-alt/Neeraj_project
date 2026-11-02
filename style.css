@@ -1,1 +1,16 @@
-<link rel="stylesheet" href="style.css">
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding-top: 50px;
+}
+
+p {
+  font-size: 24px;
+  color: #333;
+  cursor: pointer;
+}
+
+p:hover {
+  color: #0077cc;
+}
